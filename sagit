@@ -1,0 +1,19 @@
+{
+   "website_url":"https:\/\/sourceforge.net\/projects\/havoc-os\/",
+   "news_url":"https:\/\/t.me\/Havoc_OS",
+   "addons":
+   [
+   {
+    "title":"GApps","summary":"Official Open GApps","url":"http:\/\/opengapps.org"
+   },
+   {
+    "title":"Magisk","summary":"Systemless Root Installer","url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"
+   }
+   ],
+   "forum_url":"https://forum.xda-developers.com/mi-6/development/rom-havoc-os-t3807517",
+   "build_date":"20181113-2132",
+   "file_name":"Havoc-OS-v2.0-20181113-sagit-Official.zip",
+   "file_size":609997898,
+   "url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/sagit\/Havoc-OS-v2.0-20181113-sagit-Official.zip\/download",
+   "md5":"0477d5a4c9650ad841e44a078f6037b2"
+}
